@@ -10,7 +10,7 @@ A PySpark data analysis project demonstrating:
 
 ## Screenshots
 
-![Feature Correlation](screenshots/feature_correlation.png)
+![Feature Correlation](screenshots/feature_correlations.png)
 ![Price vs Area (m²)](screenshots/price_vs_area.png)
 ![Price vs Bedroom Count](screenshots/price_vs_bedrooms.png)
 
